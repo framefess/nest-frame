@@ -27,9 +27,9 @@ export class UserController {
     if (!user) {
       return null;
     }
-    const result = {
-      email: user.email,
-    };
-    return result;
+    // const result = {
+    //   email: user.email,
+    // };
+    return user;
   }
 }
