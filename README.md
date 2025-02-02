@@ -156,3 +156,16 @@ With Mau, you can deploy your application in just a few clicks, allowing you to 
         </tr>
     </tbody>
 </table>
+
+##CONFIG
+
+DB_PORT=yourport
+DB_HOST=yourlocalhost
+DB_USER=yourroot
+DB_PASSWORD=your
+DB_NAME=your db name
+DB_NAME2=your db name
+JWT_SECRET=''
+JWT_REFRESH_SECRET=''
+REDIS_HOST='yourlocalhost'
+REDIS_PORT=yourport
