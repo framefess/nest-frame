@@ -150,6 +150,7 @@ With Mau, you can deploy your application in just a few clicks, allowing you to 
 
 ##CONFIG
 
+<pre>
 DB_PORT=yourport
 DB_HOST=yourlocalhost
 DB_USER=yourroot
@@ -160,3 +161,4 @@ JWT_SECRET=''
 JWT_REFRESH_SECRET=''
 REDIS_HOST='yourlocalhost'
 REDIS_PORT=yourport
+</pre>
